@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://drive.google.com/file/d/1iOIgJ8Inovp-7SETtAWb0aspGUpNsFXt/view?usp=sharing", title: "CV"} 
   - {file: "publications.md", title: "Publications"}
-  - {file: "/rajshekharCV.pdf", title: "Projects"}
+ # - {file: "/rajshekharCV.pdf", title: "Projects"}
   - {file: "courses.md", title: "Courses"}
   - {file: "students.md", title: "Students"}
 
