@@ -21,5 +21,5 @@ I am an Assistant Professor in the [Department of Electrical, Electronics and Co
 ## Contact
 Room. 309, Academic Block - I (Engineering),<br>
 IIT Dharwad (Permanent Campus), Chikkamalligawad Village,<br>
-Dharwad, Karnataka, India, PIN: 580007.<br>
+Dharwad, Karnataka, India - 580007.<br>
 Email: rajshekhar.bhat@iitdh.ac.in 
