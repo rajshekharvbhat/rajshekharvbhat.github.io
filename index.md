@@ -2,15 +2,7 @@
 layout: page
 ---
 
-## About
-
 I am an Assistant Professor in the Department of Electrical, Electronics and Communication Engineering at the Indian Institute of Technology Dharwad, Dharwad, India. My research interests lie in the broad area of wireless communications and deep learning.
-
-## Research Focus
-
-- **Energy-Efficient Information Delivery:** I am passionate about developing near-optimal algorithms for delivering fresh information in emerging wireless networks. My goal is to achieve this with provable performance guarantees and exceptional energy efficiency.
-- **Energy Harvesting Wireless Networks:** I am actively involved in research on optimizing energy harvesting wireless networks. This involves exploring strategies to maximize network performance while considering the limitations of energy harvesting techniques.
-- **Deep Learning for Low-Latency Communications:** I am exploring the application of deep learning frameworks to achieve low-latency communication in wireless networks. This research has the potential to revolutionize real-time communication applications.
 
 ## Education
 
