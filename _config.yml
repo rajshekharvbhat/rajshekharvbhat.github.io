@@ -27,9 +27,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 # - {file: "index.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:rajshekhar.bhat@iitdh.ac.in"}
+  #- {title: Mail, icon: envelope, url: "mailto:rajshekhar.bhat@iitdh.ac.in"}
   - {title: Google Scholar, url: "https://scholar.google.com/citations?user=o2ZFG84AAAAJ&hl=en"}
-  - {title: LinkedIN, icon: fa-linkedin-in, url: "https://www.linkedin.com/in/rajshekhar-bhat-ab635314/"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/rajshekhar-bhat-ab635314/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
