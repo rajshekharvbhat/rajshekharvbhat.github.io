@@ -4,8 +4,8 @@ title: Publications
 ---
 
 ## Under Review
-1. G. Karevvanavar, H. Pable, O. Patil, **R. V. Bhat** and Nikolaos Pappas, "Version Age of Information Minimization over Fading Broadcast Channels," IEEE Transactions on Wireless Communications [[arXiv](https://arxiv.org/abs/2311.09975)]
-2. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE Transactions on Communications [[arXiv](https://arxiv.org/pdf/2309.05974)]
+1. G. Karevvanavar, H. Pable, O. Patil, **R. V. Bhat** and Nikolaos Pappas, "Version Age of Information Minimization over Fading Broadcast Channels," IEEE Transactions on Wireless Communications, [[arXiv](https://arxiv.org/abs/2311.09975)].
+2. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE Transactions on Communications, [[arXiv](https://arxiv.org/pdf/2309.05974)].
 
 
 ## Journal Publications
@@ -25,9 +25,9 @@ title: Publications
 
 ## Conference Publications
 
-21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024. [[arXiv](https://arxiv.org/pdf/2308.07335)]
-20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024. [[arXiv](https://arxiv.org/pdf/2403.00290)]
-19. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE WCNC, Dubai, UAE, 2024. [[arXiv](https://arxiv.org/pdf/2309.05974)]
+21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024,  [[arXiv](https://arxiv.org/pdf/2308.07335)].
+20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024, [[arXiv](https://arxiv.org/pdf/2403.00290)].
+19. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE WCNC, Dubai, UAE, 2024, [[arXiv](https://arxiv.org/pdf/2309.05974)]. 
 18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8. [Link](#)
 17. G. Karevvanavar and **R. V. Bhat**, "Importance-Aware Fresh Delivery of Versions Over Energy Harvesting Multiple Access Channels," IEEE ICC Workshops, Rome, Italy, 2023, pp. 1307-1312. [Link](#)
 16. R. Roy, **R. V. Bhat**, P. Hathi, N. Akhtar and N. M. Balasubramanya, "Maximization of Timely Throughput with Target Wake Time in IEEE 802.11ax," IEEE ICC 2023. [Link](#)
