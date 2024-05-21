@@ -10,7 +10,7 @@ title: Publications
 
 ## Journal Publications
 
-11. G. K. Gupta, **R. V. Bhat** and M. S. Balan, "Improving Satellite-Derived Bathymetry Estimation With a Joint Classification–Regression Model," in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024. [Link](#)
+11. G. K. Gupta, **R. V. Bhat** and M. S. Balan, "Improving Satellite-Derived Bathymetry Estimation With a Joint Classification–Regression Model," in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, [[IEEE](https://ieeexplore.ieee.org/document/10445293)].
 10. S. Kar, S. Babu, D. Jain, Y. Shali, D. S. Saritha, **R. V. Bhat**, B. N. Bharath, "Deep Learning-Based Track Prediction and Correction for a Radar Target," in IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023. [Link](#)
 9. C. T. Leung, **R. V. Bhat** and M. Motani, "Low Latency Energy-Efficient Neural Decoders for Block Codes," in IEEE Transactions on Green Communications and Networking, vol. 7, no. 2, pp. 680-691, June 2023. [Link](#)
 8. S. Jayanth and **R. V. Bhat**, "Age of Processed Information Minimization Over Fading Multiple Access Channels," in IEEE Transactions on Wireless Communications, vol. 22, no. 3, pp. 1664-1676, March 2023. [Link](#)
