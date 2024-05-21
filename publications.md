@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Publications
+
 ## Journal Publications
 
 11. G. K. Gupta, **R. V. Bhat** and M. S. Balan, "Improving Satellite-Derived Bathymetry Estimation With a Joint Classification–Regression Model," in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024. [Link](#)
