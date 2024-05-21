@@ -7,7 +7,7 @@ I am an Assistant Professor in the [Department of Electrical, Electronics and Co
 
 ## Education
 
-- **Ph.D.** in [Electrical Engineering, National University of Singapore, Singapore](https://cde.nus.edu.sg/ece/) (2019) guided by [Prof. Mehul Motani](https://mehulmotani.github.io/) and [Prof. T. J. Lim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tj-lim.html)
+- **Ph.D.** in [Electrical Engineering, National University of Singapore, Singapore](https://cde.nus.edu.sg/ece/) (2019) guided by [Prof. Mehul Motani](https://mehulmotani.github.io/) and [Prof. T. J. Lim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tj-lim.html), [[Thesis](https://scholarbank.nus.edu.sg/handle/10635/152745)]
 - **M.Tech.** in [Electrical Engineering, Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/ee/) (2012)
 - **B.Tech.** in [Electronics and Communication Engineering, National Institute of Technology Karnataka, Surathkal, India](https://ece.nitk.ac.in/) (2010)
 
