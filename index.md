@@ -1,4 +1,7 @@
 ---
+layout: page
+---
+---
 ## About
 ---
 I am an Assistant Professor in the Department of Electrical, Electronics and Communication Engineering at the Indian Institute of Technology Dharwad, Dharwad, India. My research interests lie in the broad area of wireless communications and deep learning.
