@@ -16,3 +16,9 @@ I am an Assistant Professor in the [Department of Electrical, Electronics and Co
 - **Assistant Professor,** Indian Institute of Technology Dharwad, India (August 2019 - Present)
 - **Visiting Fellow,** [Tata Institute of Fundamental Research, Mumbai, India](https://www.tcs.tifr.res.in/web/) (November 2018 - July 2019) with [Rahul Vaze](https://www.tcs.tifr.res.in/~vaze/)
 - **Design Engineer,** [Analog Devices Inc.](https://www.analog.com/en/lp/001/india-welcome.html), Bengaluru (August 2012 - July 2014)
+
+
+## Contact
+Room. 309, Academic Block - I (Engineering),
+IIT Dharwad (Permanent Campus), Chikkamalligawad Village,
+Dharwad, Karnataka, India, PIN: 580007.
