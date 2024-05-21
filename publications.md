@@ -28,9 +28,9 @@ title: Publications
 21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024,  [[arXiv](https://arxiv.org/pdf/2308.07335)].
 20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024, [[arXiv](https://arxiv.org/pdf/2403.00290)].
 19. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE WCNC, Dubai, UAE, 2024, [[arXiv](https://arxiv.org/pdf/2309.05974)]. 
-18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8. [Link](#)
-17. G. Karevvanavar and **R. V. Bhat**, "Importance-Aware Fresh Delivery of Versions Over Energy Harvesting Multiple Access Channels," IEEE ICC Workshops, Rome, Italy, 2023, pp. 1307-1312. [Link](#)
-16. R. Roy, **R. V. Bhat**, P. Hathi, N. Akhtar and N. M. Balasubramanya, "Maximization of Timely Throughput with Target Wake Time in IEEE 802.11ax," IEEE ICC 2023. [Link](#)
+18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8, [[IEEE](https://ieeexplore.ieee.org/document/10349861)], [[arXiv](https://arxiv.org/abs/2303.00850)].
+17. G. Karevvanavar and **R. V. Bhat**, "Importance-Aware Fresh Delivery of Versions Over Energy Harvesting Multiple Access Channels," IEEE ICC Workshops, Rome, Italy, 2023, pp. 1307-1312, [[IEEE](https://ieeexplore.ieee.org/document/10283619), [arXiv](https://arxiv.org/abs/2303.16143)].
+16. R. Roy, **R. V. Bhat**, P. Hathi, N. Akhtar and N. M. Balasubramanya, "Maximization of Timely Throughput with Target Wake Time in IEEE 802.11ax," IEEE ICC 2023, [[IEEE](https://ieeexplore.ieee.org/document/10279791)].
 15. S. Joshi, R. Roy, **R. V. Bhat**, P. Hathi and N. Akhtar, "Dynamic Distributed Threshold Control for Spatial Reuse in IEEE 802.11ax," IEEE NCC 2022. [Link](#)
 14. S. Agarwal, **R. V. Bhat**, "Age of Information Minimization in Energy Harvesting Sensors with Non-Ideal Batteries," IEEE Globecom 2021. [Link](#)
 13. Gagan G B, Jayanth S and **R. V. Bhat**, "Age of Information Minimization with Power and Distortion Constraints in Multiple Access Channels," WiOPT 2021. [Link](#)
