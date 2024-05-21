@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+## Under Review
+1. 
+
 ## Journal Publications
 
 11. G. K. Gupta, **R. V. Bhat** and M. S. Balan, "Improving Satellite-Derived Bathymetry Estimation With a Joint Classification–Regression Model," in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024. [Link](#)
@@ -20,8 +23,8 @@ title: Publications
 
 ## Conference Publications
 
-21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024. [Link](#)
-20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024. [Link](#)
+21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024. [Link](https://arxiv.org/pdf/2308.07335)
+20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024. [Link](https://arxiv.org/pdf/2403.00290)
 19. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE WCNC, Dubai, UAE, 2024 (Accepted for presentation). [Link](#)
 18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8. [Link](#)
 17. G. Karevvanavar and **R. V. Bhat**, "Importance-Aware Fresh Delivery of Versions Over Energy Harvesting Multiple Access Channels," IEEE ICC Workshops, Rome, Italy, 2023, pp. 1307-1312. [Link](#)
