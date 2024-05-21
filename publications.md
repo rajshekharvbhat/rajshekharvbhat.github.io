@@ -28,16 +28,16 @@ title: Publications
 21. A. K. Jose, G. Karevvanavar, **R. V. Bhat**, "An Encoder-Decoder Approach for Packing Circles," IEEE ISIT, Athens, Greece, 2024,  [[arXiv](https://arxiv.org/pdf/2308.07335)].
 20. B. A. Madhabhavi, G. Karevvanavar, **R. V. Bhat** and Nikolaos Pappas, "Semantic Text Transmission via Prediction with Small Language Models: Cost-Similarity Trade-off," IEEE ICC Workshops, Denver, USA, 2024, [[arXiv](https://arxiv.org/pdf/2403.00290)].
 19. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE WCNC, Dubai, UAE, 2024, [[arXiv](https://arxiv.org/pdf/2309.05974)]. 
-18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8, [[IEEE](https://ieeexplore.ieee.org/document/10349861)], [[arXiv](https://arxiv.org/abs/2303.00850)].
+18. J. S, N. Pappas and **R. V. Bhat**, "Distortion Minimization with Age of Information and Cost Constraints," WiOpt, Singapore, Singapore, 2023, pp. 1-8, [[IEEE](https://ieeexplore.ieee.org/document/10349861), [arXiv](https://arxiv.org/abs/2303.00850)].
 17. G. Karevvanavar and **R. V. Bhat**, "Importance-Aware Fresh Delivery of Versions Over Energy Harvesting Multiple Access Channels," IEEE ICC Workshops, Rome, Italy, 2023, pp. 1307-1312, [[IEEE](https://ieeexplore.ieee.org/document/10283619), [arXiv](https://arxiv.org/abs/2303.16143)].
 16. R. Roy, **R. V. Bhat**, P. Hathi, N. Akhtar and N. M. Balasubramanya, "Maximization of Timely Throughput with Target Wake Time in IEEE 802.11ax," IEEE ICC 2023, [[IEEE](https://ieeexplore.ieee.org/document/10279791)].
-15. S. Joshi, R. Roy, **R. V. Bhat**, P. Hathi and N. Akhtar, "Dynamic Distributed Threshold Control for Spatial Reuse in IEEE 802.11ax," IEEE NCC 2022. [Link](#)
-14. S. Agarwal, **R. V. Bhat**, "Age of Information Minimization in Energy Harvesting Sensors with Non-Ideal Batteries," IEEE Globecom 2021. [Link](#)
-13. Gagan G B, Jayanth S and **R. V. Bhat**, "Age of Information Minimization with Power and Distortion Constraints in Multiple Access Channels," WiOPT 2021. [Link](#)
-12. B. Joshi, **R. V. Bhat**, B. N. Bharath and R. Vaze, "Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes," WiOPT 2021. [Link](#)
-11. C. T. Leung, M. Motani and **R. V. Bhat**, "Multi-Label and Concatenated Neural Block Decoders," IEEE ISIT, 2020. [Link](#)
-10. **R. V. Bhat**, R. Vaze and M. Motani, "Throughput Maximization with an Average Age of Information Constraint in Fading Channels," IEEE ICC ULMC6GN Workshop, 2020. [Link](#)
-9. **R. V. Bhat**, R. Vaze and M. Motani, "Age of Information Minimization in Fading Multiple Access Channels," IEEE INFOCOM Workshop, 2020. [Link](#)
+15. S. Joshi, R. Roy, **R. V. Bhat**, P. Hathi and N. Akhtar, "Dynamic Distributed Threshold Control for Spatial Reuse in IEEE 802.11ax," IEEE NCC 2022, [[IEEE](https://ieeexplore.ieee.org/document/9806744)]. 
+14. S. Agarwal, **R. V. Bhat**, "Age of Information Minimization in Energy Harvesting Sensors with Non-Ideal Batteries," IEEE Globecom 2021, [[IEEE](https://ieeexplore.ieee.org/document/9685594)].
+13. Gagan G B, Jayanth S and **R. V. Bhat**, "Age of Information Minimization with Power and Distortion Constraints in Multiple Access Channels," WiOPT 2021, [[IEEE](https://ieeexplore.ieee.org/document/9589875)].
+12. B. Joshi, **R. V. Bhat**, B. N. Bharath and R. Vaze, "Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes," WiOPT 2021, [[IEEE](https://ieeexplore.ieee.org/document/9589182)].
+11. C. T. Leung, M. Motani and **R. V. Bhat**, "Multi-Label and Concatenated Neural Block Decoders," IEEE ISIT, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9174106)].
+10. **R. V. Bhat**, R. Vaze and M. Motani, "Throughput Maximization with an Average Age of Information Constraint in Fading Channels," IEEE ICC ULMC6GN Workshop, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9145072)].
+9. **R. V. Bhat**, R. Vaze and M. Motani, "Age of Information Minimization in Fading Multiple Access Channels," IEEE INFOCOM Workshop, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9163017)]. 
 8. C. T. Leung, **R. V. Bhat** and M. Motani, "Multi-Label Neural Decoders for Block Codes," IEEE ICC, 2020. [Link](#)
 7. C. T. Leung, **R. V. Bhat** and M. Motani, "Low-Latency Neural Decoders for Linear and Non-Linear Block Codes," IEEE GLOBECOM, Hawaii, USA, 2019. [Link](#)
 6. **R. V. Bhat**, M. Motani, C. R. Murthy and R. Vaze, "Energy Harvesting Communications with Batteries having Full-Cycle Constraints," IEEE ICC, Shanghai, 2019. [Link](#)
