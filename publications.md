@@ -38,12 +38,12 @@ title: Publications
 11. C. T. Leung, M. Motani and **R. V. Bhat**, "Multi-Label and Concatenated Neural Block Decoders," IEEE ISIT, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9174106)].
 10. **R. V. Bhat**, R. Vaze and M. Motani, "Throughput Maximization with an Average Age of Information Constraint in Fading Channels," IEEE ICC ULMC6GN Workshop, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9145072)].
 9. **R. V. Bhat**, R. Vaze and M. Motani, "Age of Information Minimization in Fading Multiple Access Channels," IEEE INFOCOM Workshop, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9163017)]. 
-8. C. T. Leung, **R. V. Bhat** and M. Motani, "Multi-Label Neural Decoders for Block Codes," IEEE ICC, 2020. [Link](#)
-7. C. T. Leung, **R. V. Bhat** and M. Motani, "Low-Latency Neural Decoders for Linear and Non-Linear Block Codes," IEEE GLOBECOM, Hawaii, USA, 2019. [Link](#)
-6. **R. V. Bhat**, M. Motani, C. R. Murthy and R. Vaze, "Energy Harvesting Communications with Batteries having Full-Cycle Constraints," IEEE ICC, Shanghai, 2019. [Link](#)
-5. **R. V. Bhat**, M. Motani and T. J. Lim, "Hybrid NOMA-TDMA for Multiple Access Channels with Non-Ideal Batteries and Circuit Cost," IEEE ISIT, Vail, 2018. [Link](#)
-4. **R. V. Bhat**, M. Motani and T. J. Lim, "Superposition Coding for Energy Harvesting Communication without CSIT," IEEE GLOBECOM, Singapore, 2017. [Link](#)
-3. Z. Ni, **R. V. Bhat** and M. Motani, "Performance of Energy-Harvesting Receivers with Batteries Having Internal Resistance," IEEE WCNCW, San Francisco, CA, 2017. [Link](#)
-2. **R. V. Bhat**, M. Motani and T. J. Lim, "Distortion minimization in energy harvesting sensor nodes with compression power constraints," IEEE ICC, Kuala Lumpur, 2016. [Link](#)
-1. **R. V. Bhat**, M. Motani and T. J. Lim, "Dual-Path Architecture for Energy Harvesting Transmitters with Battery Discharge Constraints," IEEE GLOBECOM, San Diego, CA, 2015. [Link](#)
+8. C. T. Leung, **R. V. Bhat** and M. Motani, "Multi-Label Neural Decoders for Block Codes," IEEE ICC, 2020, [[IEEE](https://ieeexplore.ieee.org/document/9148786)].
+7. C. T. Leung, **R. V. Bhat** and M. Motani, "Low-Latency Neural Decoders for Linear and Non-Linear Block Codes," IEEE GLOBECOM, Hawaii, USA, 2019, [[IEEE](https://ieeexplore.ieee.org/document/9014156)].
+6. **R. V. Bhat**, M. Motani, C. R. Murthy and R. Vaze, "Energy Harvesting Communications with Batteries having Full-Cycle Constraints," IEEE ICC, Shanghai, 2019, [[IEEE](https://ieeexplore.ieee.org/document/8761228)].
+5. **R. V. Bhat**, M. Motani and T. J. Lim, "Hybrid NOMA-TDMA for Multiple Access Channels with Non-Ideal Batteries and Circuit Cost," IEEE ISIT, Vail, 2018, [[IEEE](https://ieeexplore.ieee.org/document/8437717)].
+4. **R. V. Bhat**, M. Motani and T. J. Lim, "Superposition Coding for Energy Harvesting Communication without CSIT," IEEE GLOBECOM, Singapore, 2017, [[IEEE](https://ieeexplore.ieee.org/document/8254195)].
+3. Z. Ni, **R. V. Bhat** and M. Motani, "Performance of Energy-Harvesting Receivers with Batteries Having Internal Resistance," IEEE WCNCW, San Francisco, CA, 2017, [[IEEE](https://ieeexplore.ieee.org/document/7919064)].
+2. **R. V. Bhat**, M. Motani and T. J. Lim, "Distortion minimization in energy harvesting sensor nodes with compression power constraints," IEEE ICC, Kuala Lumpur, 2016, [[IEEE](https://ieeexplore.ieee.org/document/7511352)].
+1. **R. V. Bhat**, M. Motani and T. J. Lim, "Dual-Path Architecture for Energy Harvesting Transmitters with Battery Discharge Constraints," IEEE GLOBECOM, San Diego, CA, 2015, [[IEEE](https://ieeexplore.ieee.org/document/7417582)]. 
 
