@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "/rajshekharCV.pdf", title: "Projects"}
   - {file: "courses.md", title: "Courses"}
-  - {file: "students.md", title: "Graduate Students"}
+  - {file: "students.md", title: "Students"}
 
   
  
