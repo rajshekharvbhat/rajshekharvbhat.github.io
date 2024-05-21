@@ -1,4 +1,3 @@
-
 ## 
 
 ## Journal Publications
