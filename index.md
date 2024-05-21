@@ -15,4 +15,4 @@ I am an Assistant Professor in the Department of Electrical, Electronics and Com
 
 - **Assistant Professor,** Indian Institute of Technology Dharwad, India (August 2019 - Present)
 - **Visiting Fellow,** Tata Institute of Fundamental Research, Mumbai, India (November 2018 - July 2019)
-- **Design Engineer,** Analog Devices (August 2012 - July 2014)
+- **Design Engineer,** Analog Devices Inc., Bengaluru (August 2012 - July 2014)
