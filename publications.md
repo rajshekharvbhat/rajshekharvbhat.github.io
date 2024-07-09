@@ -4,8 +4,9 @@ title: Publications
 ---
 
 ## Under Review
-1. G. Karevvanavar, H. Pable, O. Patil, **R. V. Bhat** and Nikolaos Pappas, "Version Age of Information Minimization over Fading Broadcast Channels," IEEE Transactions on Wireless Communications, [[arXiv](https://arxiv.org/abs/2311.09975)].
-2. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE Transactions on Communications, [[arXiv](https://arxiv.org/pdf/2309.05974)].
+1. R. Roy, **R. V. Bhat**, P. Hathi, N. Akhtar and N. M. Balasubramanya, "Timely Throughput Maximization with Target Wake Time in IEEE 802.11ax," IEEE IoT Journal, [[arXiv](https://arxiv.org/pdf/2302.11512)]. 
+2. G. Karevvanavar, H. Pable, O. Patil, **R. V. Bhat** and Nikolaos Pappas, "Version Age of Information Minimization over Fading Broadcast Channels," IEEE Transactions on Wireless Communications, [[arXiv](https://arxiv.org/abs/2311.09975)].
+3. S. R. Raikar and **R. V. Bhat**, "Optimizing Reported Age of Information with Short Error Correction and Detection Codes," IEEE Transactions on Communications, [[arXiv](https://arxiv.org/pdf/2309.05974)].
 
 
 ## Journal Publications
